@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 from bokeh.io import push_notebook, show, output_notebook
 from bokeh.layouts import row, gridplot
 from bokeh.plotting import figure, show, output_file
